@@ -21,7 +21,7 @@ require_once 'menu.php';
      <hr>
     </div>
     <div class="col-md-4  text-secondary">
-    <h2>Conheça a plataforma Periféricas</h2>
+    <h2>Ajudamos mulheres a estudar</h2>
     </div>  
     <div class="col-md-4">
       <hr>

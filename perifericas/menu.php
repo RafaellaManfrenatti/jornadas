@@ -18,7 +18,7 @@
         <a class="nav-link" href="index.php">Home <span class="sr-only">(página atual)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Peça ajuda</a>
+        <a class="nav-link" href="complaint.php">Peça ajuda</a>
       </li>
      
       <li class="nav-item">

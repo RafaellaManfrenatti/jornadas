@@ -34,6 +34,12 @@
                   <li class="nav-item">
                   <a class="nav-link text-dark" href="#">Cadastre-se</a>
                 </li>
+                <li class="nav-item">
+                  <a class="nav-link text-dark" href="politics.php">Política de privacidade</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link text-dark" href="terms.php">Termos e condições</a>
+                </li>
                 </li>
                
               </ul>
@@ -53,7 +59,11 @@
 
 </div>
 
-
+<div class="row text-center sociais">
+    <div class="col-md-12">
+      <p>Periféricas &copy; Todos os direitos reservados. </p>
+    </div>
+  </div>
 
 
 
