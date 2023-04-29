@@ -64,7 +64,7 @@ contract Jornadas {
         tokens[1] = ETH_ADDRESS;
 
         // Cria um array com os valores de entrada e saída mínimos
-        uint256[] memory valoresMinimos = new uint256[](2);
-        valoresMinimos[
-        uint256 constant MIN_ETH_IN = 0.1 ether;
-uint256 constant MIN_TOKEN_OUT = 100;]
+        
+uint256[] memory valoresMinimos = new uint256[](2);
+        valoresMinimos[0] = 0.1 ether; 
+        valoresMinimos[1] = 100 JornadasToken;
