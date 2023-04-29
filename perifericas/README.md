@@ -1,5 +1,5 @@
 
-Periféricas
+Jornadas
 
 Uma plataforma de conhecimento e educação para mulheres em situação de vulnerabilidade social.
 
