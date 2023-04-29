@@ -27,6 +27,9 @@
       <li class="nav-item">
         <a class="nav-link" href="about.php">Quem somos</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Chat</a>
+      </li>
      
       
       <li class="nav-item dropdown">
@@ -77,8 +80,8 @@
     Acesse com Connect Wallet
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-  <button type="button" class="btn btn-secondary" onclick="connectWallet()">Polygon ID</button>
-  <button type="button" class="btn btn-secondary" onclick="connect()"> Metamask</button>
+  <button type="button" class="btn btn-secondary" onclick="connectWallet()"><img src="image/1inch.png" class="img-fluid" >1Inch</button>
+  <button type="button" class="btn btn-secondary" onclick="connect()"> <img src="image/metamask.png" class="img-fluid" > Metamask</button>
     
   </div>
 </div>
