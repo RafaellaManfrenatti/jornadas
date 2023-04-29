@@ -10,7 +10,9 @@ require_once 'menu.php';
     
     
     <div class="col-md-12  text-secondary">
-    <h2>Cadastre sua denúncia anonimamente em nossa plataforma abaixo:</h2>
+        <h3> Em nossa plataforma você consegue realizar sua denúncia de forma anônima de crimes praticados contra mulheres,
+            negros, lgbtqia+, pcds, imigrantes ou outro grupo.</h3>
+    <h3>Cadastre sua denúncia anonimamente em nossa plataforma abaixo:</h3>
     </div>  
 
     <form>
